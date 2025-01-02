@@ -44,7 +44,7 @@
 
               // https://www.php.net/manual/pt_BR/language.types.string.php
               print  " <section> 
-                          <p> $idade </p>
+                          <p> {$idade} </p>
                       </section>";
             }
           }
